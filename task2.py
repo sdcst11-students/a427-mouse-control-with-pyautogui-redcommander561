@@ -1,0 +1,51 @@
+import pyautogui
+import time
+
+
+
+
+def navigate_maze():
+    pyautogui.moveTo(995,194)
+    time.sleep(1)
+    pyautogui.moveTo(1064,194,)
+    time.sleep(1)
+    pyautogui.moveTo(1066,255)
+    time.sleep(1)
+    pyautogui.moveTo(1045,255)
+    time.sleep(1)
+    pyautogui.moveTo(1045,350)
+    time.sleep(1)
+    pyautogui.moveTo(1087,351)
+    time.sleep(1)
+    pyautogui.moveTo(1085,326)
+    time.sleep(1)
+    pyautogui.moveTo(1066,326)
+    time.sleep(1)
+    pyautogui.moveTo(1069,285)
+    time.sleep(1)
+    pyautogui.moveTo(1114,281)
+    time.sleep(1)
+    pyautogui.moveTo(1114,235)
+    time.sleep(1)
+    pyautogui.moveTo(1161,209)
+    time.sleep(1)
+    pyautogui.moveTo(1202,215)
+    time.sleep(1)
+    pyautogui.moveTo(1206,256)
+    time.sleep(1)
+    pyautogui.moveTo(1158,260)
+    time.sleep(1)
+    pyautogui.moveTo(1159,326)
+    time.sleep(1)
+    pyautogui.moveTo(1137,330)
+    time.sleep(1)
+    pyautogui.moveTo(1137,395)
+    time.sleep(1)
+    pyautogui.moveTo(1180,400)
+    time.sleep(1)
+    pyautogui.moveTo(1180,373)
+    time.sleep(1)
+    pyautogui.moveTo(1282,378)
+
+
+navigate_maze()
